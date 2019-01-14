@@ -5,3 +5,6 @@ var chocolateBars =
   'kitkat',
   'skittles'
   ];
+  
+  var addElementToBeginningOfArray =
+  []
